@@ -27,3 +27,5 @@ Pada VsCode :
 Untuk melakukan run pada salah satu piece of code yang ada pada salah satu cell, pilih cell yang ingin di-run lalu tekan SHIFT+ENTER atau tombol 'play' yang terdapat pada bagian atas kiri  
 Untuk melakukan run sekaligus semua code mulai dari atas hingga bawah, tekan 'Run All' yang terdapat pada bagian atas Vs Code
 
+## Identitas Pembuat
+Farhan Hafiz - 13520027
