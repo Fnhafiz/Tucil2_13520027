@@ -11,6 +11,7 @@ Pastikan telah terinstal module/packages sebagai berikut :
 2. numpy  
 3. pandas  
 4. sklearn  
+
 Jika belum dapat melakukan install dengan cara sebagai berikut pada terminal anda sesuai yang dibutuhkan :  
 pip install matplotlib, pip install numpy, pip install pandas, pip install -U scikit-learn  
 
@@ -22,7 +23,7 @@ Pada Jupyter Interface :
 Untuk melakukan run pada salah satu piece of code yang ada pada salah satu cell, pilih cell yang ingin di-run lalu tekan SHIFT+ENTER atau tombol 'play' yang tersedia  
 Untuk melakukan run sekaligus semua code mulai dari atas hingga bawah, cari pada tombol 'Cell', maka akan terlihat berbagai opsi, lalu pilih 'Run All'  
 
-Pada VsCode :
+Pada VsCode :  
 Untuk melakukan run pada salah satu piece of code yang ada pada salah satu cell, pilih cell yang ingin di-run lalu tekan SHIFT+ENTER atau tombol 'play' yang terdapat pada bagian atas kiri  
 Untuk melakukan run sekaligus semua code mulai dari atas hingga bawah, tekan 'Run All' yang terdapat pada bagian atas Vs Code
 
