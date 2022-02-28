@@ -11,11 +11,8 @@ Pastikan telah terinstal module/packages sebagai berikut :
 2. numpy  
 3. pandas  
 4. sklearn  
-Jika belum dapat melakukan install dengan cara sebagai berikut pada terminal anda :  
-1. pip install matplotlib
-2. pip install numpy
-3. pip install pandas
-4. pip install -U scikit-learn  
+Jika belum dapat melakukan install dengan cara sebagai berikut pada terminal anda sesuai yang dibutuhkan :  
+pip install matplotlib, pip install numpy, pip install pandas, pip install -U scikit-learn  
 
 ## Langkah Compile Program
 Program hanya berada pada satu file python jupyter notebook (ipynb) sehingga tidak diperlukan compile program
